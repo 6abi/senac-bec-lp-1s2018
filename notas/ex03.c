@@ -6,7 +6,7 @@
  *
  * Compilação
  *
- *	gcc -W -Wall -pedantic -std=c11 ex01.c -o ex01
+ *	gcc -W -Wall -pedantic -std=c11 ex03.c -o ex03
  *
  * Autor
  *
