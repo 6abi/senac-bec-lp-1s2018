@@ -1,0 +1,36 @@
+Eduardo Heredia
+contato@eduardoheredia.pro.br
+
+VERDURAS
+* Alface: R$ 7.60 (2.0 UN)
+* Couve: R$ 13.59 (3.0 UN)
+** TOTAL VERDURAS: R$ 21.19
+
+LEGUMES
+* Cenoura: R$ 2.80 (0.8 Kg)
+* Batata: R$ 21.15 (4.5 kg)
+* Vagem: R$ 1.40 (0.5 Kg) 
+** TOTAL LEGUMES: R$ 25.35
+
+CARNES
+* Alcatra: R$ 49.80 (2.0 Kg)
+* Patinho: R$ 75.25 (3.5 Kg)
+** TOTAL CARNES: R$ 125.05
+
+LIMPEZA
+* Veja: R$ 11.40 (2.0 UN)
+* Bombril: R$ 5.40 (3.0 PCT)
+* Limpol: R$ 5.97 (3.0 UN)
+** TOTAL LIMPEZA: R$ 22.77
+
+TOTAL DE ITENS: 10
+
+VALOR TOTAL: R$ 194.36
+
+DESCONTO: 10.50%
+
+VALOR DO DESCONTO: R$ 20.41
+
+VALOR A PAGAR: R$ 173.95
+
+
